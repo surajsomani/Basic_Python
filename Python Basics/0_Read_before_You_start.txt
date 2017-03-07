@@ -1,0 +1,22 @@
+Before you start please do the following
+
+
+1. Python 3.5 needed to run the below scripts
+
+2. Open the scripts in python IDLE or run the scripts using command prompt
+   using python3 <scriptname>.py for linux and python <scriptname>.py in
+   windows. make sure have set the current directory in command prompt
+
+3. If you have not set the environment variables during installation 
+   or not able to do that contact in below mentioned mail.
+
+4. Each script is having comments and variable names given
+   to explain the things happening in it.
+
+5. Please read the comments and outputs carefully as they are
+   designed to be self explanatory
+
+6. For any doubts or questions feel free to email on 
+   suraj1.somani@axisbank.com
+
+
